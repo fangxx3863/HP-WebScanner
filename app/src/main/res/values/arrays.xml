@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paper">
+        <item>Letter</item>
+        <item>Executive</item>
+        <item>A4(8.27x11.69")‎</item>
+        <item>10.16x15.24cm (4x6")‎</item>
+        <item>12.7X17.78cm (5x7")</item>
+        <item>7.6x12.7cm (3x5")‎</item>
+        <item>7.6x7.6cm (3x3")‎</item>
+    </string-array>
+</resources>
