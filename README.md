@@ -13,3 +13,6 @@
  5.按需点击按钮
  
  6.Enjoy！
+
+# 软件截图
+ ![qq_pic_merged_1632133856365](https://user-images.githubusercontent.com/48589001/133988556-53647730-78d8-4da8-8778-e6e90602a194.jpg)
